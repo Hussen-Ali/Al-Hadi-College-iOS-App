@@ -12,8 +12,10 @@ A mobile application built for a private college to help students easily manage 
 
 ## 🎥 Demo
 
-![App Demo](assets/demo.gif)  
-*(Replace with your GIF or `.mp4` if you prefer inline playback)*
+
+https://github.com/user-attachments/assets/59c6e752-c849-44ac-b0cf-3e1e8e4795b2
+
+
 
 ---
 
