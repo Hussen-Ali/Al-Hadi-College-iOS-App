@@ -61,7 +61,6 @@ https://github.com/user-attachments/assets/59c6e752-c849-44ac-b0cf-3e1e8e4795b2
 ## 🔒 Note
 
 This repository contains a **trimmed version** of the original private project.  
-Sensitive business logic and backend endpoints have been removed.
 
 ```swift
 // Contact the owner to access the full version
