@@ -1,0 +1,55 @@
+{
+    "edu": "Morning",
+    "stage": "third",
+    "Resuit": "fail",
+    "roletype": "first",
+    "evaluation": "weak",
+    "Materials_with_type": [
+        {
+            "type": "1",
+            "student_materials": [
+                {
+                    "Material": "English",
+                    "is_carry": false,
+                    "fulfilled": false,
+                    "Appreciation": "جيد"
+                },
+                {
+                    "Material": "Mathematics",
+                    "is_carry": false,
+                    "fulfilled": false,
+                    "Appreciation": "ضعيف"
+                },
+                {
+                    "Material": "Physics",
+                    "is_carry": true,
+                    "fulfilled": false,
+                    "Appreciation": "جيد جدا"
+                },
+                {
+                    "Material": "Arabic",
+                    "is_carry": false,
+                    "fulfilled": true,
+                    "Appreciation": "مستوفي"
+                },
+                {
+                    "Material": "Microbiology",
+                    "is_carry": false,
+                    "fulfilled": false,
+                    "Appreciation": "جيد"
+                },
+                {
+                    "Material": "Anatomy",
+                    "is_carry": false,
+                    "fulfilled": false,
+                    "Appreciation": "متوسط"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+

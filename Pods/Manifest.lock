@@ -1,0 +1,43 @@
+PODS:
+  - AppAuth (1.6.0):
+    - AppAuth/Core (= 1.6.0)
+    - AppAuth/ExternalUserAgent (= 1.6.0)
+  - AppAuth/Core (1.6.0)
+  - AppAuth/ExternalUserAgent (1.6.0):
+    - AppAuth/Core
+  - FlexibleSteppedProgressBar (0.7.2)
+  - GoogleSignIn (7.0.0):
+    - AppAuth (~> 1.5)
+    - GTMAppAuth (< 3.0, >= 1.3)
+    - GTMSessionFetcher/Core (< 4.0, >= 1.1)
+  - GTMAppAuth (2.0.0):
+    - AppAuth/Core (~> 1.6)
+    - GTMSessionFetcher/Core (< 4.0, >= 1.5)
+  - GTMSessionFetcher/Core (3.1.0)
+  - KeychainSwift (20.0.0)
+
+DEPENDENCIES:
+  - FlexibleSteppedProgressBar
+  - GoogleSignIn
+  - KeychainSwift
+
+SPEC REPOS:
+  trunk:
+    - AppAuth
+    - FlexibleSteppedProgressBar
+    - GoogleSignIn
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - KeychainSwift
+
+SPEC CHECKSUMS:
+  AppAuth: 8fca6b5563a5baef2c04bee27538025e4ceb2add
+  FlexibleSteppedProgressBar: 6a781cfed749bf59c69813a8706aa397c342ab5c
+  GoogleSignIn: b232380cf495a429b8095d3178a8d5855b42e842
+  GTMAppAuth: 99fb010047ba3973b7026e45393f51f27ab965ae
+  GTMSessionFetcher: c9e714f7eec91a55641e2bab9f45fd83a219b882
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+
+PODFILE CHECKSUM: ca88e2cc0f0c39515f6318474af94aadd5bdb020
+
+COCOAPODS: 1.12.0

@@ -1,0 +1,151 @@
+// MARK: 1- Home
+"Home" = "Home";
+"Welcome" = "Welcome";
+"Explore_the_latest_news_by_one_Tap" = "Explore the latest news by one Tap";
+"Title"="Title";
+"Details"="Details";
+
+// MARK: 2- Learn
+"Learn"="Learn";
+"Good_Morning,"="Good Morning,";
+"Hello"="Hello";
+"Lectures"="Lectures";
+"Schedules"="Schedules";
+"Alerts"="Alerts";
+"Categories"="Categories";
+"Grades"="Grades";
+"Educational_record"="Educational record";
+"Library"="Library";
+"TO_DOS"="TO-DOS"; // Grades:
+"First_Semester"="First Semester";
+"Second_Semester"="Second Semester";
+"Result"="Result";
+"Evaluation"="Evaluation";
+"Attempt"="Attempt";
+"Materials"="Materials";// Educational Record:
+"Status"="Status";
+"Date"="Date";
+"category" = "category";
+"Take_a_look_into_your_educational_record_at_HUC"="Take a look into your educational record at HUC";
+
+// MARK: 3- College
+"College" = "College";
+"collegetitle" = "The College";
+
+// MARK: 3- Menu
+"Menu" = "Menu";
+"Account" = "Account";
+"Personal_Info" = "Personal Info";
+"Secondary_School_Info" = "Secondary School Info";
+"University_Info" = "University Info";
+"Documentation" = "Documentation";
+"Student_Documents" = "Student Documents";
+"Student_ID" = "Student ID";
+"Financial" = "Financial";
+"Bills" = "Bills";
+"Preferences" = "Preferences";
+"Theme" = "Theme";
+"Language" = "Language";
+"Sign_Out" = "Sign Out";
+"Sign_in" = "Sign In";
+
+
+// MARK: Support
+"Report-Issue" = "Report Issue";
+"Issue-Status" = "Issue Status";
+"Pending" = "Pending";
+"Approved" = "Approved";
+"Rejected" = "Rejected";
+"Whats-your-Issue" = "What’s your Issue?";
+"Let-us-know-of-any" = "Let us know of any issues by writing below. We'll receive and update your request promptly.";
+"Tell-us-your-issue" = "Tell us your issue ...";
+"Submit" = "Submit";
+"charcover" = "characters over";
+"No-thing-Here" = "No thing Here ...";
+"Replies" = "Replies";
+"emptyreplytitle" = "Keep an eye out! Your reply is just around the corner.";
+
+// MARK: Personal Info
+"Basic_Info" = "Basic Info";
+"Name" = "Name";
+"Mothers_Name" = "Mother’s Name";
+"Birthday" = "Birthday";
+"Gender" = "Gender";
+"Contact_Info" = "Contact Info";
+"Students_Phone_Number" = "Student's Phone Number";
+"Parents_Phone_Number" = "Parent's Phone Number";
+"Address_Info" = "Address Info";
+"Governorate" = "Governorate";
+"Address" = "Address";
+"Additional_Info" = "Additional Info";
+"Nationality" = "Nationality";
+"Nationalism" = "Nationalism";
+"Religion" = "Religion";
+
+// MARK: Secondary School Info
+"Secondary_School_Profile" = "Secondary School Profile";
+"School_Name" = "School Name";
+"Directorate" = "Directorate";
+"Graduation_Record_Number" = "Graduation Record Number";
+"Graduation_Record_Date" = "Graduation Record Date";
+"Branch" = "Branch";
+"Attempt" = "Attempt";
+
+// MARK: University Info
+"University_Profile" = "University Profile";
+"Department" = "Department";
+"Study_Type" = "Study Type";
+"Starting_Date" = "Starting Date";
+"Channel" = "Channel";
+"Branch" = "Branch";
+"Email" = "Email";
+"University_Number" = "University Number";
+
+// MARK: Student ID
+"Student_at_HUC" = "Student at HUC";
+"Stage"="Stage";
+"ID_status"="ID status";
+"Valid"="Valid";
+"Expire_Date"="Expire Date";
+"Commencement_Date"="Commencement Date";
+
+// MARK: Bills
+"College_Fees"="College Fees";
+"Payment_Progress"="Payment Progress";
+"Done"="Done";
+"Total_fees"="Total fees";
+"IQD"="IQD";
+"Total_paid"="Total paid";
+"Total_remaining"="Total remaining";
+"Payment"="Payment";
+"Paid"="Paid";
+"Remaining"="Remaining";
+"Ends_on"="Ends on";
+
+// MARK: D: Theme-Language-Sign Out
+"confirm" = "Confirm";
+"ok" = "OK";
+"cancel" = "Cancel";
+"theme" = "This feature is not available at this time";
+"changelanguage" = "Confirm Language Change";
+"changelanguagetitle" = "Are you sure you want to change the language to Arabic? The app will reset!";
+"confirmsignout" = "Confirm Sign Out";
+"confirmsignouttitle" = "Are you sure you want to sign out?";
+"error" = "Error";
+"emailnotfound" = "Email not found on the college system";
+
+// MARK: Others-No Internet
+"nointernet" = "No internet connection";
+"nointernettitle" = "Tap the button below to reload";
+"nointernetbtn" = "reload";
+"nodata" = "No data";
+"your-request-has-been-received" = "Your request has been received and is being processed. Thank you!";
+"success" = "Success";
+"page" = "page";
+"download" = "Download";
+"open" = "Open";
+"You-dont-have-any-tasks" = "You don’t have any tasks. Tap the button below to add a new task";
+"No-tasks-assigned" = "No tasks assigned";
+"l1" = "You are not signed in !";
+"l2" = "Tap the button below to sign in";
+"l3" = "Sign in";

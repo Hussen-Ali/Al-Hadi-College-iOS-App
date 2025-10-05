@@ -1,0 +1,213 @@
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "01I-69-7RU"; */
+"01I-69-7RU.text" = "Data";
+
+/* Class = "UILabel"; text = "University Info"; ObjectID = "0HK-mC-3l1"; */
+"0HK-mC-3l1.text" = "University Info";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "12Q-N4-joN"; */
+"12Q-N4-joN.text" = "Data";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "1nX-6Y-tUT"; */
+"1nX-6Y-tUT.text" = "Language";
+
+/* Class = "UILabel"; text = "+123 4567891011"; ObjectID = "21I-Ic-S5r"; */
+"21I-Ic-S5r.text" = "+123 4567891011";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "330-ME-q6Y"; */
+"330-ME-q6Y.text" = "Email";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "3br-9K-NeO"; */
+"3br-9K-NeO.text" = "Name";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "4LE-Q7-7WD"; */
+"4LE-Q7-7WD.text" = "Education";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "4MR-hw-PJZ"; */
+"4MR-hw-PJZ.text" = "Data";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "4dA-Ly-1ar"; */
+"4dA-Ly-1ar.text" = "Data";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "4jA-Ak-fax"; */
+"4jA-Ak-fax.text" = "Data";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "4mc-Lh-LEe"; */
+"4mc-Lh-LEe.title" = " ";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "6KC-qi-wTr"; */
+"6KC-qi-wTr.text" = "Data";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "6r8-aR-0f9"; */
+"6r8-aR-0f9.text" = "Data";
+
+/* Class = "UILabel"; text = "Theme"; ObjectID = "7Vy-z1-LXa"; */
+"7Vy-z1-LXa.text" = "Theme";
+
+/* Class = "UILabel"; text = "Secondary school profile"; ObjectID = "8UQ-hX-Jm7"; */
+"8UQ-hX-Jm7.text" = "Secondary school profile";
+
+/* Class = "UILabel"; text = "Additional  info"; ObjectID = "Abp-Zx-TkL"; */
+"Abp-Zx-TkL.text" = "Additional  info";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "Agw-J7-uav"; */
+"Agw-J7-uav.text" = "Data";
+
+/* Class = "UILabel"; text = "Parent's Phone Number"; ObjectID = "BSh-6x-EzJ"; */
+"BSh-6x-EzJ.text" = "Parent's Phone Number";
+
+/* Class = "UIViewController"; title = "Home"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Home";
+
+/* Class = "UILabel"; text = "Mother’s Name"; ObjectID = "Br7-L8-PPT"; */
+"Br7-L8-PPT.text" = "Mother’s Name";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Cai-Fa-3K1"; */
+"Cai-Fa-3K1.text" = "Email";
+
+/* Class = "UILabel"; text = "School Name"; ObjectID = "D2s-tY-548"; */
+"D2s-tY-548.text" = "School Name";
+
+/* Class = "UILabel"; text = "Contact  info"; ObjectID = "Er7-a0-JAD"; */
+"Er7-a0-JAD.text" = "Contact  info";
+
+/* Class = "UILabel"; text = "Basic info"; ObjectID = "FpG-SQ-hTl"; */
+"FpG-SQ-hTl.text" = "Basic info";
+
+/* Class = "UILabel"; text = "عراقي"; ObjectID = "Fps-5f-JdT"; */
+"Fps-5f-JdT.text" = "عراقي";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "HCf-WV-9mz"; */
+"HCf-WV-9mz.text" = "Data";
+
+/* Class = "UILabel"; text = "Attempt"; ObjectID = "Hg9-5c-SRX"; */
+"Hg9-5c-SRX.text" = "Attempt";
+
+/* Class = "UILabel"; text = "Directorate"; ObjectID = "Hgj-9R-tuG"; */
+"Hgj-9R-tuG.text" = "Directorate";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "J5j-a0-yzT"; */
+"J5j-a0-yzT.text" = "Data";
+
+/* Class = "UILabel"; text = "Window"; ObjectID = "J6a-pN-n6T"; */
+"J6a-pN-n6T.text" = "Window";
+
+/* Class = "UILabel"; text = "Preferences"; ObjectID = "JGY-L0-vdR"; */
+"JGY-L0-vdR.text" = "Preferences";
+
+/* Class = "UILabel"; text = "Branch"; ObjectID = "LbU-ir-f6G"; */
+"LbU-ir-f6G.text" = "Branch";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "Oht-QS-yAJ"; */
+"Oht-QS-yAJ.title" = "Menu";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "Okc-jo-TdE"; */
+"Okc-jo-TdE.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Secondary school info"; ObjectID = "PwQ-cZ-esN"; */
+"PwQ-cZ-esN.text" = "Secondary school info";
+
+/* Class = "UILabel"; text = "Religion"; ObjectID = "RMH-O4-sZw"; */
+"RMH-O4-sZw.text" = "Religion";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "RNy-OH-GZC"; */
+"RNy-OH-GZC.text" = "Data";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "RiK-YX-3uH"; */
+"RiK-YX-3uH.text" = "Data";
+
+/* Class = "UILabel"; text = "المحافظة"; ObjectID = "STZ-4T-KE8"; */
+"STZ-4T-KE8.text" = "المحافظة";
+
+/* Class = "UILabel"; text = "اسم الام"; ObjectID = "VEa-hu-f43"; */
+"VEa-hu-f43.text" = "اسم الام";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "WEv-Ij-lnh"; */
+"WEv-Ij-lnh.text" = "Name";
+
+/* Class = "UILabel"; text = "University info"; ObjectID = "WGr-7f-9Yv"; */
+"WGr-7f-9Yv.text" = "University info";
+
+/* Class = "UILabel"; text = "details"; ObjectID = "WzR-RC-qFT"; */
+"WzR-RC-qFT.text" = "details";
+
+/* Class = "UILabel"; text = "2023 - 5 - 1"; ObjectID = "ZW7-gF-yuE"; */
+"ZW7-gF-yuE.text" = "2023 - 5 - 1";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "aXg-2J-vBc"; */
+"aXg-2J-vBc.text" = "Sign out";
+
+/* Class = "UILabel"; text = "Address  info"; ObjectID = "bTv-8S-2eO"; */
+"bTv-8S-2eO.text" = "Address  info";
+
+/* Class = "UILabel"; text = "+123 4567891011"; ObjectID = "cYL-N7-iMw"; */
+"cYL-N7-iMw.text" = "+123 4567891011";
+
+/* Class = "UILabel"; text = "Student's Phone Number"; ObjectID = "cbD-km-rLx"; */
+"cbD-km-rLx.text" = "Student's Phone Number";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "dfx-Mo-TBl"; */
+"dfx-Mo-TBl.text" = "Account";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "fbT-WC-spu"; */
+"fbT-WC-spu.text" = "title";
+
+/* Class = "UILabel"; text = "University number"; ObjectID = "ffD-DY-lT9"; */
+"ffD-DY-lT9.text" = "University number";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "gQr-FT-RLY"; */
+"gQr-FT-RLY.text" = "Address";
+
+/* Class = "UILabel"; text = "الجنس"; ObjectID = "gcZ-R6-BNv"; */
+"gcZ-R6-BNv.text" = "الجنس";
+
+/* Class = "UILabel"; text = "Governorate"; ObjectID = "h4i-93-WjT"; */
+"h4i-93-WjT.text" = "Governorate";
+
+/* Class = "UILabel"; text = "القومية"; ObjectID = "k0y-ik-ElU"; */
+"k0y-ik-ElU.text" = "القومية";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "kCg-3b-iXp"; */
+"kCg-3b-iXp.text" = "Gender";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ktG-dD-0do"; */
+"ktG-dD-0do.title" = "Home";
+
+/* Class = "UILabel"; text = "Secondary school certificate"; ObjectID = "mRJ-7j-8QZ"; */
+"mRJ-7j-8QZ.text" = "Secondary school certificate";
+
+/* Class = "UILabel"; text = "Start date"; ObjectID = "oEC-yW-iy9"; */
+"oEC-yW-iy9.text" = "Start date";
+
+/* Class = "UILabel"; text = "Graduation Record Number"; ObjectID = "oHn-cQ-FV2"; */
+"oHn-cQ-FV2.text" = "Graduation Record Number";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "oWq-BZ-syc"; */
+"oWq-BZ-syc.text" = "Nationality";
+
+/* Class = "UILabel"; text = "Bills"; ObjectID = "q5f-L8-SUx"; */
+"q5f-L8-SUx.text" = "Bills";
+
+/* Class = "UILabel"; text = "Personal info"; ObjectID = "qRB-qO-Lts"; */
+"qRB-qO-Lts.text" = "Personal info";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "rs0-eT-5h4"; */
+"rs0-eT-5h4.text" = "Data";
+
+/* Class = "UILabel"; text = "Graduation Record Date"; ObjectID = "swg-j5-9Ch"; */
+"swg-j5-9Ch.text" = "Graduation Record Date";
+
+/* Class = "UILabel"; text = "مسلم"; ObjectID = "ubu-j4-Y1h"; */
+"ubu-j4-Y1h.text" = "مسلم";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "w8z-Al-vkH"; */
+"w8z-Al-vkH.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Nationalism"; ObjectID = "zbm-KK-aPx"; */
+"zbm-KK-aPx.text" = "Nationalism";
+
+/* Class = "UILabel"; text = "الاسم"; ObjectID = "zc3-C1-Gfo"; */
+"zc3-C1-Gfo.text" = "الاسم";
+
+/* Class = "UILabel"; text = "Department"; ObjectID = "zpD-ZK-Sv0"; */
+"zpD-ZK-Sv0.text" = "Department";

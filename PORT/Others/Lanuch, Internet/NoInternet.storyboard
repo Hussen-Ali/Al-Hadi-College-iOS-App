@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--No InternetVC-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="NoInternetVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Y6W-OH-hqX" customClass="NoInternetVC" customModule="PORT" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="xb7-Sp-BZA">
+                                <rect key="frame" x="78" y="533" width="237" height="68"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You are not signed in !" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wx8-8d-836">
+                                        <rect key="frame" x="0.0" y="0.0" width="237" height="28.666666666666668"/>
+                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="24"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tap the button below to sign in" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="92f-CY-p7Z">
+                                        <rect key="frame" x="0.0" y="48.666666666666629" width="237" height="19.333333333333329"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <color key="textColor" red="0.47058826679999999" green="0.4941176176" blue="0.5647059083" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="92f-CY-p7Z" firstAttribute="width" secondItem="xb7-Sp-BZA" secondAttribute="width" id="6tO-GG-VLa"/>
+                                    <constraint firstItem="Wx8-8d-836" firstAttribute="width" secondItem="xb7-Sp-BZA" secondAttribute="width" id="coB-x1-Bd1"/>
+                                </constraints>
+                            </stackView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="no internet" translatesAutoresizingMaskIntoConstraints="NO" id="g1S-oz-vvs">
+                                <rect key="frame" x="28" y="150" width="337" height="333"/>
+                            </imageView>
+                            <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zgv-jY-Ktj">
+                                <rect key="frame" x="103.66666666666669" y="651.66666666666663" width="186" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="186" id="EpA-jv-YTy"/>
+                                    <constraint firstAttribute="height" constant="50" id="eeB-Ek-RWt"/>
+                                </constraints>
+                                <color key="tintColor" red="0.38823530080000002" green="0.84313726430000002" blue="0.77647060160000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Refresh" cornerStyle="capsule">
+                                    <color key="baseBackgroundColor" red="0.38823530080000002" green="0.84313726430000002" blue="0.77647060160000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="refreshbt:" destination="Y6W-OH-hqX" eventType="touchUpInside" id="xki-8S-w8U"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="g1S-oz-vvs" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="91" id="NOA-QT-PfW"/>
+                            <constraint firstItem="g1S-oz-vvs" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="Phu-IB-2XZ"/>
+                            <constraint firstItem="xb7-Sp-BZA" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="R1j-v4-MNo"/>
+                            <constraint firstItem="Zgv-jY-Ktj" firstAttribute="top" secondItem="xb7-Sp-BZA" secondAttribute="bottom" constant="50.670000000000002" id="X68-e3-La9"/>
+                            <constraint firstItem="xb7-Sp-BZA" firstAttribute="top" secondItem="g1S-oz-vvs" secondAttribute="bottom" constant="50" id="bOl-S6-uHo"/>
+                            <constraint firstItem="g1S-oz-vvs" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="28" id="rvn-BM-j7c"/>
+                            <constraint firstItem="Zgv-jY-Ktj" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="sCa-4Q-XfE"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="g1S-oz-vvs" secondAttribute="trailing" constant="28" id="x2d-A5-GTZ"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="nointernet" destination="Wx8-8d-836" id="P7c-sF-zUI"/>
+                        <outlet property="nointernetbtn" destination="Zgv-jY-Ktj" id="rs7-at-4ZN"/>
+                        <outlet property="nointernettitle" destination="92f-CY-p7Z" id="2sa-yM-ewq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="67.938931297709928" y="3.5211267605633805"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="no internet" width="303" height="333"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

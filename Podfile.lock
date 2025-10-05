@@ -1,0 +1,59 @@
+PODS:
+  - AppAuth (1.6.0):
+    - AppAuth/Core (= 1.6.0)
+    - AppAuth/ExternalUserAgent (= 1.6.0)
+  - AppAuth/Core (1.6.0)
+  - AppAuth/ExternalUserAgent (1.6.0):
+    - AppAuth/Core
+  - FlexibleSteppedProgressBar (0.7.2)
+  - GoogleSignIn (7.0.0):
+    - AppAuth (~> 1.5)
+    - GTMAppAuth (< 3.0, >= 1.3)
+    - GTMSessionFetcher/Core (< 4.0, >= 1.1)
+  - GTMAppAuth (2.0.0):
+    - AppAuth/Core (~> 1.6)
+    - GTMSessionFetcher/Core (< 4.0, >= 1.5)
+  - GTMSessionFetcher/Core (3.1.0)
+  - KeychainSwift (20.0.0)
+  - LanguageManager-iOS (1.2.5)
+  - LZViewPager (1.2.8):
+    - SnapKit (~> 5.6.0)
+  - SnapKit (5.6.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - FlexibleSteppedProgressBar
+  - GoogleSignIn (~> 7.0.0)
+  - KeychainSwift
+  - LanguageManager-iOS
+  - LZViewPager
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - AppAuth
+    - FlexibleSteppedProgressBar
+    - GoogleSignIn
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - KeychainSwift
+    - LanguageManager-iOS
+    - LZViewPager
+    - SnapKit
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  AppAuth: 8fca6b5563a5baef2c04bee27538025e4ceb2add
+  FlexibleSteppedProgressBar: 6a781cfed749bf59c69813a8706aa397c342ab5c
+  GoogleSignIn: b232380cf495a429b8095d3178a8d5855b42e842
+  GTMAppAuth: 99fb010047ba3973b7026e45393f51f27ab965ae
+  GTMSessionFetcher: c9e714f7eec91a55641e2bab9f45fd83a219b882
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+  LanguageManager-iOS: 049345fe4d1c5fbe22af93d438540917f4936359
+  LZViewPager: 832bd177210060e1282b67aa1e9cd201ded67a5b
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: b9114144449d2dbdfdde369bb04efacdcdda52c8
+
+COCOAPODS: 1.12.0
