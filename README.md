@@ -17,7 +17,7 @@ A mobile application built for a private college to help students easily manage 
 
 > This app’s interface was designed using **Figma**.
 
-<img width="1728" height="1117" alt="Screenshot 2025-10-05 at 7 19 53 PM" src="https://github.com/user-attachments/assets/1ee42bc7-1116-42d9-bdbe-280bd26a7226" />
+<img width="1282" height="1015" alt="Screenshot 2025-10-10 at 7 19 39 PM" src="https://github.com/user-attachments/assets/eee81e04-f570-4dcd-ae46-2c9618d4d96a" />
 
 ---
 
