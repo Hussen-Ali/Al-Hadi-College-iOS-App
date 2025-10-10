@@ -2,11 +2,22 @@
 
 A mobile application built for a private college to help students easily manage their academic and administrative needs — all in one place.
 
-> ⚠️ This is a **public demo version** of the project.  
-> Some code sections have been intentionally removed for privacy and security reasons.  
+> ⚠️ **Important Notice**  
+> This repository is **old** and may contain **deprecated dependencies** and **outdated code**.  
+> It is shared **for demo and reference purposes only**. Some parts may require updates to run on modern environments.
+
+> 🛡️ Certain sensitive code sections have been **intentionally removed** for privacy and security reasons.  
 > For collaboration or full-access inquiries, please contact the developer:
 > - GitHub: [Hussen-Ali](https://github.com/Hussen-Ali)
 > - Email: hsentaqi@gmail.com
+
+---
+
+## 🖼️ UI Design Preview
+
+> This app’s interface was designed using **Figma**.
+
+<img width="1728" height="1117" alt="Screenshot 2025-10-05 at 7 19 53 PM" src="https://github.com/user-attachments/assets/1ee42bc7-1116-42d9-bdbe-280bd26a7226" />
 
 ---
 
@@ -14,7 +25,6 @@ A mobile application built for a private college to help students easily manage 
 
 
 https://github.com/user-attachments/assets/59c6e752-c849-44ac-b0cf-3e1e8e4795b2
-
 
 
 ---
