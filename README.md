@@ -3,7 +3,7 @@
 A mobile application built for a private college to help students easily manage their academic and administrative needs — all in one place.
 
 > ⚠️ **Important Notice**  
-> This repository is **old** and may contain **deprecated dependencies** and **outdated code**.  
+> This repository is **old** (since 2023) and may contain **deprecated dependencies** and **outdated code**.  
 > It is shared **for demo and reference purposes only**. Some parts may require updates to run on modern environments.
 
 > 🛡️ Certain sensitive code sections have been **intentionally removed** for privacy and security reasons.  
