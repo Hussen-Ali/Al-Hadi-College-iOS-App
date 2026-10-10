@@ -15,7 +15,7 @@ A mobile application built for a private college to help students easily manage 
 
 ## 🖼️ UI Design Preview
 
-> This app’s interface was designed using **Figma**.
+> This app’s interface was designed using **Figma** By UI/UX Designer Abdullah Bashar.
 
 <img width="1282" height="1015" alt="Screenshot 2025-10-10 at 7 19 39 PM" src="https://github.com/user-attachments/assets/eee81e04-f570-4dcd-ae46-2c9618d4d96a" />
 
